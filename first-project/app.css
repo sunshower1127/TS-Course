@@ -1,0 +1,9 @@
+div {
+  border-style: solid;
+}
+
+span {
+  border: 1px solid red;
+  padding: 10px;
+  margin: 10px;
+}
